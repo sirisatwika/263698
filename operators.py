@@ -1,0 +1,7 @@
+print(2+2)
+print(2*3)
+print(5*4)
+print(7/6)
+print(7//6)
+print(1788%3)
+print(38475**2)
