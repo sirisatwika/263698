@@ -4,3 +4,5 @@ empty_dictionary = {}
 print(dictionary)
 print(phone_numbers)
 print(empty_dictionary)
+for key in dictionary.keys():
+    print(key, "->", dictionary[key])
