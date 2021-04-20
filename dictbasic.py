@@ -6,3 +6,6 @@ print(phone_numbers)
 print(empty_dictionary)
 for key in dictionary.keys():
     print(key, "->", dictionary[key])
+dictionary['cat'] = 'minou'
+print(dictionary)
+
