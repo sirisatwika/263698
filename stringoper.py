@@ -9,4 +9,5 @@ char_1 = 'a'
 char_2 = ' ' 
 print(ord(char_1)) #gives us the ascii value
 print(ord(char_2))
-
+print(chr(97))
+print(chr(945))
