@@ -19,4 +19,5 @@ print("SiGmA=60".lower())
 print("www.netacad.com".replace("netacad.com", "pythoninstitute.org"))
 print("This is it!".replace("is", "are"))
 print("Apple juice".replace("juice", ""))
-
+print("[" + " upsilon ".rstrip() + "]")
+print("cisco.com".rstrip(".com"))
